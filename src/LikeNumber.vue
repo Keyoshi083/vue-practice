@@ -1,7 +1,8 @@
 <template>
   <div>
     <p>いいね {{ number }}</p>
-    <button @click="increment">増やす</button>
+    <button @click="increment">増やす</button
+    ><button @click="decrement">減らす</button>
   </div>
 </template>
 
