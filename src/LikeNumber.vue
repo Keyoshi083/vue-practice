@@ -11,7 +11,7 @@ export default {
   name: "LikeNumber",
   data() {
     return {
-      number: 5,
+      number: 0,
     };
   },
   methods: {
