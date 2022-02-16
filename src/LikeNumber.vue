@@ -17,6 +17,9 @@ export default {
     increment() {
       this.number += 1;
     },
+    decrement() {
+      this.number -= 1;
+    },
   },
 };
 </script>
